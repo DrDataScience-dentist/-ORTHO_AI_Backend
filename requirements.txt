@@ -1,0 +1,5 @@
+flask
+ultralytics
+matplotlib
+pillow
+gunicorn
